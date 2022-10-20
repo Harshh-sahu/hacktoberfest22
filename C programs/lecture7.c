@@ -1,13 +1,13 @@
 #include<stdio.h>
 int main()
 {
-    int a,b;
-    a= 5;
-    b= 3;
-    printf("a & b = %d\n",a&&b);
-    printf("a | b = %d\n",a-b);
-    printf("a ं b = %d\n",aंb);
-    //printf("a / b = %d\n",a/b);//
+    int c,d;
+    c= 5;
+    d= 3;
+    printf("c & d = %d\n",c&&d);
+    printf("c | d = %d\n",c-d);
+    printf("c ं d = %d\n",c ं d);
+    //printf("c / d = %d\n",c/d);//
 
     return 0;
 }
